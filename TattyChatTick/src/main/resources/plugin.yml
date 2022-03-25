@@ -1,0 +1,5 @@
+name: TattyChatTick
+version: '1.0'
+main: org.glockinmybape.tattychattick.TattyChatTick
+authors: [ glockinmybape ]
+description: TattyChatTick
